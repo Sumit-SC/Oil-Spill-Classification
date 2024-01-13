@@ -1,0 +1,27 @@
+     Actual Target  Predicted Target
+855              0                 0
+148              0                 0
+728              0                 0
+902              0                 0
+434              0                 0
+473              0                 0
+409              0                 0
+96               0                 0
+235              0                 0
+362              1                 1
+808              0                 0
+705              0                 0
+558              0                 0
+760              0                 0
+425              0                 0
+312              0                 0
+874              0                 0
+748              0                 0
+812              0                 0
+159              0                 0
+
+---------------------------------------
+Printing the results of our Random Forest prediction on random 20 data samples.
+Number of correct predictions: 20
+Percentage of correct predictions: 100.0%
+Our model based on 'Random Forest' is well trained having prediction accuracy of 100.00%
